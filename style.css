@@ -11,22 +11,46 @@
 .mainsectcontent {
     margin-right: 200px;
     margin-left: 200px;
+    padding-top: 18px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 30px;
 }
 
 .headerbar {
     font-size: 18px;
     display: flex;
     justify-content: space-around;
-    padding: 18px;
 }
 
 .homebarspacer {
     display: flex;
     flex: 3 1 0;
 }
+
 .headercontent {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex: 2 1 0;
+}
+
+.section1 {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.section1A {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0;
+    margin-right: 60px;
+}
+
+.imgplaceholder {
+    display: flex;
+    text-align: center;
+    flex: 2 1 0;
+    background-color: gray;
 }
 
