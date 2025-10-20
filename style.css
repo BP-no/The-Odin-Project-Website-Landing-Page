@@ -18,9 +18,10 @@
 }
 
 .headerbar {
-    font-size: 18px;
     display: flex;
     justify-content: space-around;
+    font-size: 24px;
+    font-weight: 700;
 }
 
 .homebarspacer {
@@ -32,6 +33,18 @@
     display: flex;
     justify-content: space-between;
     flex: 2 1 0;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
 }
 
 .section1 {
@@ -47,11 +60,42 @@
     margin-right: 60px;
 }
 
+.webslogan {
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 0px;
+    color: #F9FAF8;
+}
+
+.webdesc {
+    font-size: 18px;
+    color: #F9FAF8; 
+}
+
 .imgplaceholder {
     display: flex;
     text-align: center;
     flex: 2 1 0;
     background-color: gray;
-    height: 216px;
+    height: 279px;
 }
+
+.signup {
+    background-color: #3882F6;
+    font-weight: 700;
+    color: white; 
+    padding: 5px;
+    width: 100px;
+}
+
+.randominfotxt {
+    text-align: center;
+    padding: 50px;
+}
+
+.txtplaceholdermain {
+    display: flex;
+    justify-content: center;
+}
+
 
