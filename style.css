@@ -90,12 +90,22 @@ a:visited {
 
 .randominfotxt {
     text-align: center;
-    padding: 50px;
+    padding: 30px;
 }
 
 .txtplaceholdermain {
     display: flex;
     justify-content: center;
+    font-size: 18px;
 }
 
+.randominfohead {
+    font-size: 38px;
+    color: #1F2937;
+    font-weight: 900;
+}
 
+.randomimgplaceholdermain {
+    border: 10px;
+    border-color: blue;
+}
