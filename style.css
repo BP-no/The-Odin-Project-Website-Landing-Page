@@ -105,4 +105,22 @@ a:visited {
     font-weight: 900;
 }
 
+/* This is for quote section */
 
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 250;
+    padding: 100px;
+    padding-right: 315px;
+    padding-left: 315px;
+    padding-top: 120px;
+}
+
+.quotename {
+    font-size: 24px;
+    font-weight: 750;
+    text-align: right;
+    margin-right: 65px;
+}
