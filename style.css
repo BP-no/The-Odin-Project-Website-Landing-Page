@@ -136,4 +136,31 @@ a:visited {
     padding-top: 30px;
     padding-bottom: 30px;
     display: flex;
+    border-radius: 12px;
+}
+
+.actioncall button {  
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #3882F6;  
+    color: white;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding-right: 37px;
+    padding-left: 37px;
+    height: 45px;
+}
+
+.actiondesc{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-top: 3px;
+}
+
+.actionslogan {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 700;
+    margin-bottom: 0px;
 }
