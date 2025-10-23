@@ -124,3 +124,16 @@ a:visited {
     text-align: right;
     margin-right: 65px;
 }
+
+.actioncall {
+    margin: 100px;
+    margin-right: 170px;
+    margin-left: 170px;
+    background-color: #3882F6;
+    color: white;
+    padding-right: 130px;
+    padding-left: 130px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+}
