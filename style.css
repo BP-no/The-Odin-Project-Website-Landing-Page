@@ -89,20 +89,32 @@ a:visited {
 }
 
 .randominfotxt {
-    text-align: center;
-    padding: 30px;
+    text-align: center; 
 }
 
-.txtplaceholdermain {
+.randominfocontent p {
     display: flex;
     justify-content: center;
-    font-size: 18px;
+    width: auto;
 }
 
-.randominfohead {
+.randominfotxt h2 {
     font-size: 38px;
     color: #1F2937;
     font-weight: 900;
+}
+
+img {
+    border: 4px solid #3882F6;
+    border-radius: 13px;
+    height: 150px;
+    width: auto;
+}
+
+.randominfomain {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
 }
 
 /* This is for quote section */
