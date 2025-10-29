@@ -56,8 +56,8 @@ a:visited {
 .section1A {
     display: flex;
     flex-direction: column;
-    flex: 1 1 0;
-    margin-right: 60px;
+    flex: 4 1 0;
+    margin-right: 30px;
 }
 
 .webslogan {
@@ -75,7 +75,7 @@ a:visited {
 .imgplaceholder {
     display: flex;
     text-align: center;
-    flex: 2 1 0;
+    flex: 5 1 0;
     background-color: gray;
     height: 279px;
 }
