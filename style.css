@@ -188,3 +188,10 @@ img {
     font-weight: 700;
     margin-bottom: 0px;
 }
+
+.bottombar {
+    text-align: center;
+    color: white;
+    background-color: #1F2937;
+    padding: 40px;
+}
